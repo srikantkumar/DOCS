@@ -1,0 +1,36 @@
+Write,Analyze,review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.
+
+Correct errors by making appropriate changes and rechecking the program to ensure  that the desired results are produced.
+
+Perform or direct revision,repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements,
+
+Write, update,and maintain computer programs or software packages to handle spcific jobs such as tracking inventory, storing retrieving data, or controlling other equipment.
+
+Consult with manegerial,engineering and technical personnel to clarify program intent, identify problems, and suggest changes.
+
+Conduct trial runs of programs and software applications to be sure they will produce the desired information and that the intructions are correct.
+
+Prepare detailed workflow charts and diagrams that describe input,output, and logical operation, and convert them into a series of instructions coded in a computer language.
+
+Compile and write documentation of program development and subsequent revisions, inserting cmments in the coded insructions so others can understand the program.
+
+Consult with and assist computer operators or system analysts to define and resolve in running computer programs.
+
+Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.
+
+Write or contribute to instructions or manuals to guide end users.
+
+Investigate whether networks, workstations, the central processing unit of system, or peripheral equipment are responding to a program's instructions.
+
+Assign, coordinate, and review work and activities of programming personnel.
+
+Train subordinates in programming and program coding.
+
+Develop Websites.
+
+
+
+
+
+
+
